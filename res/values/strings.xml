@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tripper</string>
+    <string name="DROPBOX_APP_KEY">appkey</string>
+    <string name="DROPBOX_SECRET_KEY">cos</string>
+</resources>
