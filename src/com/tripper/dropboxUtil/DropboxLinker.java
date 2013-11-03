@@ -25,6 +25,7 @@ public class DropboxLinker extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
+        savedInstanceState.get("cos");
     }
 
 }
